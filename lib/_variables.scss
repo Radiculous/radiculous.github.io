@@ -33,6 +33,8 @@ $purple:                #7a43b6 !default;
 // Brand Colors
 // -------------------------
 
+$skinnymamasBrightOrange:		#f37900;
+$skinnymamasTangerine:			#edcaa9;
 $cuckoobeeBabyBlue:  			#dffbff;
 $cuckoobeeBabyPink: 			#ffd4f0;
 
@@ -44,7 +46,7 @@ $textColor:             $grayDark !default;
 
 // Links
 // -------------------------
-$linkColor:             $cuckoobeeBabyBlue; // #08c !default;
+$linkColor:             $skinnymamasBrightOrange; // #08c !default;
 $linkColorHover:        darken($linkColor, 15%) !default;
 
 
@@ -92,9 +94,9 @@ $tableBorder:                       #ddd !default; // table and cell border
 
 // Buttons
 // -------------------------
-$btnBackground:                     $cuckoobeeBabyBlue !default; // $white !default;
-$btnBackgroundHighlight:            darken($cuckoobeeBabyBlue, 10%) !default;
-$btnBorder:                         $cuckoobeeBabyBlue !default;
+$btnBackground:                     $skinnymamasBrightOrange !default; // $white !default;
+$btnBackgroundHighlight:            darken($skinnymamasTangerine, 10%) !default;
+$btnBorder:                         $skinnymamasBrightOrange !default;
 
 $btnPrimaryBackground:              $linkColor !default;
 $btnPrimaryBackgroundHighlight:     adjust-hue($btnPrimaryBackground, 20%) !default;
