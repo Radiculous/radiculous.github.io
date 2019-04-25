@@ -1754,94 +1754,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/stickybusiness\/img\/lookatme\/01.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 114695,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/01.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/01.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/02.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 272219,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/02.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/02.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/03.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 156271,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/03.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/03.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/04.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 101049,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/04.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/04.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/05.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 40112,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/05.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/05.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/06.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 68000,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/06.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/06.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/07.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 743865,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/07.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/07.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/stickybusiness\/img\/lookatme\/img-attention-seeker.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 92337,
-		"inputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/img-attention-seeker.png",
-		"outputAbbreviatedPath": "\/stickybusiness\/img\/lookatme\/img-attention-seeker.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/stickybusiness\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3331,6 +3243,94 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/stickybusiness\/lookatme\/01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114695,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/01.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272219,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/02.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156271,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/03.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101049,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/04.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40112,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/05.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68000,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/06.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/06.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/07.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 743865,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/07.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/07.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stickybusiness\/lookatme\/img-attention-seeker.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92337,
+		"inputAbbreviatedPath": "\/stickybusiness\/lookatme\/img-attention-seeker.png",
+		"outputAbbreviatedPath": "\/stickybusiness\/lookatme\/img-attention-seeker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/stickybusiness\/typography.html": {
 		"fileType": 8192,
