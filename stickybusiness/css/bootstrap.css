@@ -178,12 +178,12 @@ body {
   background-color: #fff; }
 
 a {
-  color: #f37900;
+  color: #984bff;
   text-decoration: none; }
 
 a:hover,
 a:focus {
-  color: #a75300;
+  color: #6c00fe;
   text-decoration: underline; }
 
 .img-rounded {
@@ -749,7 +749,7 @@ address {
 .nav-list > .active > a:focus {
   color: #222;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-  background-color: #f37900; }
+  background-color: #984bff; }
 
 .nav-list [class^="icon-"],
 .nav-list [class*=" icon-"] {
@@ -884,14 +884,14 @@ address {
   border-radius: 6px; }
 
 .nav .dropdown-toggle .caret {
-  border-top-color: #f37900;
-  border-bottom-color: #f37900;
+  border-top-color: #984bff;
+  border-bottom-color: #984bff;
   margin-top: 6px; }
 
 .nav .dropdown-toggle:hover .caret,
 .nav .dropdown-toggle:focus .caret {
-  border-top-color: #a75300;
-  border-bottom-color: #a75300; }
+  border-top-color: #6c00fe;
+  border-bottom-color: #6c00fe; }
 
 /* move down carets for tabs */
 .nav-tabs .dropdown-toggle .caret {
@@ -1538,7 +1538,7 @@ header {
 
 body {
   padding: 3%;
-  background-color: #edcaa9; }
+  background-color: #c1a2f4; }
   body h1 {
     text-align: center; }
   body h1.title {
